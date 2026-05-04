@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260504172238RN9246</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260504172238DNVMYF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA: VANGUARDIAS Y GENERACIÓN DEL 27</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Beatriz Fernández Morín</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777897087136</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mor60s5o-u322l42cj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>VANGUARDIAS Y GENERACIÓN DEL 27</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VANGUARDIAS Y GENERACIÓN DEL 27</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VANGUARDIAS Y GENERACIÓN DEL 27</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>VANGUARDIAS Y GENERACIÓN DEL 27</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor60s5o-u322l42cj</odePageId>
+      <odeBlockId>block-1776152792408-7whe5ccd0</odeBlockId>
+      <blockName>Esta situación de aprendizaje se centra en el estudio de las vanguardias literarias y de la Generación del 27, fomentando el análisis crítico de textos literarios, la reflexión sobre la innovación estética y la creación de productos digitales.El alumnado investigará diferentes ismos de las vanguardias europeas y españolas y a autores y autoras de la Generación del 27, para comunicar lo aprendido mediante recursos digitales interactivos dirigidos a la comunidad educativa.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor60s5o-u322l42cj</odePageId>
+          <odeBlockId>block-1776152792408-7whe5ccd0</odeBlockId>
+          <odeIdeviceId>idevice-1776152792403-v53yx1ear</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<p>Etapa educativa y nivel<br />Educación Secundaria Obligatoria – 4.º de ESO</p>
+<p>Materia<br />Lengua Castellana y Literatura</p>
+<p>Agrupamientos y organización espacial (DUA)</p>
+<p>Trabajo individual (análisis de textos y búsqueda de información)<br />Trabajo en parejas (diseño del guion del vídeo)<br />Grupos cooperativos heterogéneos (3–4 personas)<br />Gran grupo (debates, puesta en común y visionado de productos)<br />Espacios: aula ordinaria, aula TIC, trabajo online desde casa</p>
+<p>Temporalización</p>
+<p>7 sesiones de 55 minutosSesiones 1–2: introducción y contextualización histórica y literaria<br />Sesiones 3–4: investigación sobre vanguardias y Generación del 27<br />Sesiones 5–6: elaboración de la infografía y del vídeo<br />Sesión 7: exposiciones y evaluación</p>
+<p><strong>Productos finales del alumnado:</strong></p>
+<p>I<strong>nfografía digital</strong> <strong>interactiva </strong>sobre un movimiento de vanguardia (ismo), incorporando elementos multimedia (enlaces, audios o vídeos).</p>
+<p>🎯 Objetivo de la tarea<br />Crear una infografía interactiva digital en la que expliques una única vanguardia literaria del siglo XX, demostrando que comprendes sus características, autores y lenguaje, y que sabes presentar la información de forma clara, visual y creativa.</p>
+<p>📌 Instrucciones<br />Elige una sola vanguardia literaria (no varias).<br />Investiga la información necesaria.<br />Organiza los contenidos de forma visual e interactiva.<br />Diseña una infografía digital que cumpla todos los requisitos.<br />Entrega el trabajo en el formato indicado.<br />🧠 Vanguardias entre las que puedes elegir<br />(elige solo una)</p>
+<p>Futurismo<br />Cubismo<br />Dadaísmo<br />Surrealismo<br />Expresionismo<br />Ultraísmo<br />Creacionismo<br />📝 El nombre de la vanguardia debe aparecer claramente en el título.<br />🧩 Contenidos obligatorios<br />Tu infografía debe incluir todas las siguientes partes:</p>
+<p>1️⃣ Definición e introducción<br />Qué es la vanguardia elegida.<br />En qué época surge.<br />Qué pretende (ruptura con la tradición, innovación, provocación…).<br />2️⃣ Características principales<br />Entre 4 y 6 características, explicadas de forma breve.<br />Relacionadas con:Lenguaje<br />Temas<br />Recursos expresivos<br />Forma de escribir<br />3️⃣ Autores representativos<br />Al menos dos autores importantes.<br />De cada autor:Nombre<br />Una obra representativa o un dato relevante<br />4️⃣ Ejemplo literario<br />Un ejemplo que represente la vanguardia:Un verso<br />Un fragmento breve<br />Una imagen simbólica<br />Explica brevemente por qué ese ejemplo es propio de esa vanguardia.<br />🖱️ Interactividad (OBLIGATORIA)<br />La infografía debe ser interactiva, no solo una imagen.</p>
+<p>Debes incluir al menos tres de los siguientes elementos:</p>
+<p>Botones o pestañas para cambiar de sección.<br />Elementos clicables con información oculta.<br />Ventanas emergentes.<br />Imágenes interactivas.<br />Animaciones sencillas.<br />Una pregunta final tipo test o reto de comprensión.<br />🎨 Diseño y lenguaje<br />Diseño claro, ordenado y visual.<br />Texto breve y bien distribuido.<br />Uso adecuado de colores e imágenes.<br />Letra legible.<br />Lenguaje correcto y adecuado a 4.º de ESO.<br />Sin faltas graves de ortografía o expresión.<br />💻 Formato y entrega<br />Trabajo digital.<br />Herramienta libre (Genially, Canva interactivo, PowerPoint con hipervínculos, etc.).<br />Entrega mediante enlace o archivo digital.<br />Debe aparecer:Título<br />Nombre del autor/a o autores</p>
+<p><a href="{{context_path}}/content/resources/Rubrica_Infografia_Vanguardia_4ESO_pdf.pdf" title="Rubrica_Infografia_Vanguardia_4ESO_pdf.pdf">{{context_path}}/content/resources/Rubrica_Infografia_Vanguardia_4ESO_pdf.pdf</a></p>
+<p></p>
+<p><br /><strong>Vídeo divulgativo</strong> sobre un autor o autora de la Generación del 27, donde se presenten su contexto, rasgos literarios y una obra relevante.</p>
+<p>🎬 TAREA: VÍDEO EN FORMATO NOTICIERO<br />🎯 Objetivo de la tarea<br />Realizar un vídeo divulgativo en formato noticiario o informativo en el que presentes a un autor o autora de la Generación del 27, explicando de manera clara y comprensible su vida, su obra y su importancia literaria.</p>
+<p>El vídeo debe simular un informativo de televisión (presentador/a, secciones, tono objetivo), adaptado a un contexto escolar.<br />👤 Autor o autora<br />Elige un solo autor o autora de la Generación del 27, por ejemplo:</p>
+<p>Federico García Lorca<br />Rafael Alberti<br />Luis Cernuda<br />Vicente Aleixandre<br />Pedro Salinas<br />Dámaso Alonso<br />Gerardo Diego<br />Concha Méndez<br />Ernestina de Champourcín<br />📺 Formato obligatorio: NOTICIERO / INFORMATIVO<br />El vídeo debe presentarse como si fuera un informativo, por ejemplo:</p>
+<p>Presentador/a dando la bienvenida.<br />Titular inicial sobre el autor o autora.<br />Desarrollo de la “noticia”.<br />Cierre del informativo.<br />Puedes incluir:</p>
+<p>Rótulos (nombre del autor, fechas, obras).<br />Música de cabecera (siempre libre de derechos).<br />Uso de un tono informativo, claro y objetivo.<br />🧠 Antes de grabar: ¿qué voy a contar?<br />Reflexiona y responde por escrito:</p>
+<p>Qué aspectos del autor/a son más relevantes.<br />Qué información es imprescindible para entender su importancia.<br />Qué ideas clave debe recordar quien vea el vídeo.<br />📝 Guion literario (obligatorio)<br />Antes de grabar, deberás elaborar un guion literario, que incluya:</p>
+<p>Introducción del informativo.<br />Presentación del autor o autora.<br />Desarrollo del contenido.<br />Cierre o despedida.<br />📌 No se puede grabar el vídeo sin haber elaborado previamente el guion.<br />📚 Contenidos obligatorios del noticiero<br />El vídeo debe incluir, de forma clara y resumida:</p>
+<p>1️⃣ Apertura del informativo<br />Presentación breve de la Generación del 27.<br />Introducción del autor o autora.<br />2️⃣ Contexto<br />Marco histórico y cultural.<br />Importancia del grupo del 27.<br />3️⃣ Vida y obra<br />Datos biográficos básicos.<br />Temas principales de su obra.<br />Rasgos de su estilo.<br />Al menos una obra representativa.<br />4️⃣ Ejemplo literario<br />Un verso o fragmento breve.<br />Explicación sencilla del ejemplo.<br />5️⃣ Cierre<br />Importancia del autor/a.<br />Frase final a modo de despedida del informativo.<br />🔐 Seguridad digital<br />No muestres datos personales.<br />No grabes a otras personas sin permiso.<br />Utiliza solo las plataformas indicadas.<br />Mantén una actitud responsable en el uso de Internet.<br />🎨 Realización del vídeo<br />Duración orientativa: 2–4 minutos.<br />Sonido claro y sin ruido.<br />Imagen estable.<br />Edición sencilla pero cuidada.<br />♿ Accesibilidad<br />Para que el vídeo sea comprensible para todos:</p>
+<p>Habla despacio y vocaliza.<br />Usa letra legible en rótulos.<br />Evita música que tape la voz.<br />Añade subtítulos si es posible.<br />💻 Entrega<br />Enlace o archivo digital.<br />Debe aparecer:Título del informativo.<br />Nombre del autor/a del trabajo.</p>
+<p><strong>Herramientas del alumnado:</strong></p>
+<p>Genially o Canva (infografía interactiva)<br />WeVideo / CapCut / Clipchamp / PowerPoint (creación del vídeo)<br />Google Drive / Microsoft 365<br />Padlet (puesta en común)<br /><strong>Herramientas del profesorado:</strong></p>
+<p>eXeLearning<br />Aula Virtual / Teams<br />Rúbrica digital para evaluación</p>
+<p><a href="{{context_path}}/content/resources/Rubrica_Video_Noticiero_Generacion27_4ESO.pdf" title="Rubrica_Video_Noticiero_Generacion27_4ESO.pdf">{{context_path}}/content/resources/Rubrica_Video_Noticiero_Generacion27_4ESO.pdf</a></p>
+<p><br /><strong>Recursos complementarios:</strong></p>
+<p>Proyecto Gutenberg<br />Biblioteca Virtual Miguel de Cervantes<br />Canal de YouTube UNED y RTVE Archivo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776152792403-v53yx1ear","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<p>Etapa educativa y nivel<br />Educación Secundaria Obligatoria – 4.º de ESO</p>\n<p>Materia<br />Lengua Castellana y Literatura</p>\n<p>Agrupamientos y organización espacial (DUA)</p>\n<p>Trabajo individual (análisis de textos y búsqueda de información)<br />Trabajo en parejas (diseño del guion del vídeo)<br />Grupos cooperativos heterogéneos (3–4 personas)<br />Gran grupo (debates, puesta en común y visionado de productos)<br />Espacios: aula ordinaria, aula TIC, trabajo online desde casa</p>\n<p>Temporalización</p>\n<p>7 sesiones de 55 minutosSesiones 1–2: introducción y contextualización histórica y literaria<br />Sesiones 3–4: investigación sobre vanguardias y Generación del 27<br />Sesiones 5–6: elaboración de la infografía y del vídeo<br />Sesión 7: exposiciones y evaluación</p>\n<p><strong>Productos finales del alumnado:</strong></p>\n<p>I<strong>nfografía digital</strong> <strong>interactiva </strong>sobre un movimiento de vanguardia (ismo), incorporando elementos multimedia (enlaces, audios o vídeos).</p>\n<p>🎯 Objetivo de la tarea<br />Crear una infografía interactiva digital en la que expliques una única vanguardia literaria del siglo XX, demostrando que comprendes sus características, autores y lenguaje, y que sabes presentar la información de forma clara, visual y creativa.</p>\n<p>📌 Instrucciones<br />Elige una sola vanguardia literaria (no varias).<br />Investiga la información necesaria.<br />Organiza los contenidos de forma visual e interactiva.<br />Diseña una infografía digital que cumpla todos los requisitos.<br />Entrega el trabajo en el formato indicado.<br />🧠 Vanguardias entre las que puedes elegir<br />(elige solo una)</p>\n<p>Futurismo<br />Cubismo<br />Dadaísmo<br />Surrealismo<br />Expresionismo<br />Ultraísmo<br />Creacionismo<br />📝 El nombre de la vanguardia debe aparecer claramente en el título.<br />🧩 Contenidos obligatorios<br />Tu infografía debe incluir todas las siguientes partes:</p>\n<p>1️⃣ Definición e introducción<br />Qué es la vanguardia elegida.<br />En qué época surge.<br />Qué pretende (ruptura con la tradición, innovación, provocación…).<br />2️⃣ Características principales<br />Entre 4 y 6 características, explicadas de forma breve.<br />Relacionadas con:Lenguaje<br />Temas<br />Recursos expresivos<br />Forma de escribir<br />3️⃣ Autores representativos<br />Al menos dos autores importantes.<br />De cada autor:Nombre<br />Una obra representativa o un dato relevante<br />4️⃣ Ejemplo literario<br />Un ejemplo que represente la vanguardia:Un verso<br />Un fragmento breve<br />Una imagen simbólica<br />Explica brevemente por qué ese ejemplo es propio de esa vanguardia.<br />🖱️ Interactividad (OBLIGATORIA)<br />La infografía debe ser interactiva, no solo una imagen.</p>\n<p>Debes incluir al menos tres de los siguientes elementos:</p>\n<p>Botones o pestañas para cambiar de sección.<br />Elementos clicables con información oculta.<br />Ventanas emergentes.<br />Imágenes interactivas.<br />Animaciones sencillas.<br />Una pregunta final tipo test o reto de comprensión.<br />🎨 Diseño y lenguaje<br />Diseño claro, ordenado y visual.<br />Texto breve y bien distribuido.<br />Uso adecuado de colores e imágenes.<br />Letra legible.<br />Lenguaje correcto y adecuado a 4.º de ESO.<br />Sin faltas graves de ortografía o expresión.<br />💻 Formato y entrega<br />Trabajo digital.<br />Herramienta libre (Genially, Canva interactivo, PowerPoint con hipervínculos, etc.).<br />Entrega mediante enlace o archivo digital.<br />Debe aparecer:Título<br />Nombre del autor/a o autores</p>\n<p><a href=\"{{context_path}}/content/resources/Rubrica_Infografia_Vanguardia_4ESO_pdf.pdf\" title=\"Rubrica_Infografia_Vanguardia_4ESO_pdf.pdf\">{{context_path}}/content/resources/Rubrica_Infografia_Vanguardia_4ESO_pdf.pdf</a></p>\n<p></p>\n<p><br /><strong>Vídeo divulgativo</strong> sobre un autor o autora de la Generación del 27, donde se presenten su contexto, rasgos literarios y una obra relevante.</p>\n<p>🎬 TAREA: VÍDEO EN FORMATO NOTICIERO<br />🎯 Objetivo de la tarea<br />Realizar un vídeo divulgativo en formato noticiario o informativo en el que presentes a un autor o autora de la Generación del 27, explicando de manera clara y comprensible su vida, su obra y su importancia literaria.</p>\n<p>El vídeo debe simular un informativo de televisión (presentador/a, secciones, tono objetivo), adaptado a un contexto escolar.<br />👤 Autor o autora<br />Elige un solo autor o autora de la Generación del 27, por ejemplo:</p>\n<p>Federico García Lorca<br />Rafael Alberti<br />Luis Cernuda<br />Vicente Aleixandre<br />Pedro Salinas<br />Dámaso Alonso<br />Gerardo Diego<br />Concha Méndez<br />Ernestina de Champourcín<br />📺 Formato obligatorio: NOTICIERO / INFORMATIVO<br />El vídeo debe presentarse como si fuera un informativo, por ejemplo:</p>\n<p>Presentador/a dando la bienvenida.<br />Titular inicial sobre el autor o autora.<br />Desarrollo de la “noticia”.<br />Cierre del informativo.<br />Puedes incluir:</p>\n<p>Rótulos (nombre del autor, fechas, obras).<br />Música de cabecera (siempre libre de derechos).<br />Uso de un tono informativo, claro y objetivo.<br />🧠 Antes de grabar: ¿qué voy a contar?<br />Reflexiona y responde por escrito:</p>\n<p>Qué aspectos del autor/a son más relevantes.<br />Qué información es imprescindible para entender su importancia.<br />Qué ideas clave debe recordar quien vea el vídeo.<br />📝 Guion literario (obligatorio)<br />Antes de grabar, deberás elaborar un guion literario, que incluya:</p>\n<p>Introducción del informativo.<br />Presentación del autor o autora.<br />Desarrollo del contenido.<br />Cierre o despedida.<br />📌 No se puede grabar el vídeo sin haber elaborado previamente el guion.<br />📚 Contenidos obligatorios del noticiero<br />El vídeo debe incluir, de forma clara y resumida:</p>\n<p>1️⃣ Apertura del informativo<br />Presentación breve de la Generación del 27.<br />Introducción del autor o autora.<br />2️⃣ Contexto<br />Marco histórico y cultural.<br />Importancia del grupo del 27.<br />3️⃣ Vida y obra<br />Datos biográficos básicos.<br />Temas principales de su obra.<br />Rasgos de su estilo.<br />Al menos una obra representativa.<br />4️⃣ Ejemplo literario<br />Un verso o fragmento breve.<br />Explicación sencilla del ejemplo.<br />5️⃣ Cierre<br />Importancia del autor/a.<br />Frase final a modo de despedida del informativo.<br />🔐 Seguridad digital<br />No muestres datos personales.<br />No grabes a otras personas sin permiso.<br />Utiliza solo las plataformas indicadas.<br />Mantén una actitud responsable en el uso de Internet.<br />🎨 Realización del vídeo<br />Duración orientativa: 2–4 minutos.<br />Sonido claro y sin ruido.<br />Imagen estable.<br />Edición sencilla pero cuidada.<br />♿ Accesibilidad<br />Para que el vídeo sea comprensible para todos:</p>\n<p>Habla despacio y vocaliza.<br />Usa letra legible en rótulos.<br />Evita música que tape la voz.<br />Añade subtítulos si es posible.<br />💻 Entrega<br />Enlace o archivo digital.<br />Debe aparecer:Título del informativo.<br />Nombre del autor/a del trabajo.</p>\n<p><strong>Herramientas del alumnado:</strong></p>\n<p>Genially o Canva (infografía interactiva)<br />WeVideo / CapCut / Clipchamp / PowerPoint (creación del vídeo)<br />Google Drive / Microsoft 365<br />Padlet (puesta en común)<br /><strong>Herramientas del profesorado:</strong></p>\n<p>eXeLearning<br />Aula Virtual / Teams<br />Rúbrica digital para evaluación</p>\n<p><a href=\"{{context_path}}/content/resources/Rubrica_Video_Noticiero_Generacion27_4ESO.pdf\" title=\"Rubrica_Video_Noticiero_Generacion27_4ESO.pdf\">{{context_path}}/content/resources/Rubrica_Video_Noticiero_Generacion27_4ESO.pdf</a></p>\n<p><br /><strong>Recursos complementarios:</strong></p>\n<p>Proyecto Gutenberg<br />Biblioteca Virtual Miguel de Cervantes<br />Canal de YouTube UNED y RTVE Archivo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor60s5t-2u2940rm4</odePageId>
+  <odeParentPageId>page-mor60s5o-u322l42cj</odeParentPageId>
+  <pageName>1. INTENCIÓN EDUCATIVA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor60s5t-2u2940rm4</odePageId>
+      <odeBlockId>block-1777754809291-9kkql2t4u</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor60s5t-2u2940rm4</odePageId>
+          <odeBlockId>block-1777754809291-9kkql2t4u</odeBlockId>
+          <odeIdeviceId>idevice-1777754809289-0b3j735nw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Justificación e impacto esperado</strong></p>
+<p style="text-align: justify;">El estudio de las vanguardias y la Generación del 27 permite comprender la renovación estética de la literatura del siglo XX y su relación con el contexto histórico y cultural. A través de la creación de productos digitales, el alumnado desarrolla competencias comunicativas, creativas y digitales, además de una actitud crítica ante los discursos culturales.</p>
+<p style="text-align: justify;"><strong>Relación con los ODS y los retos del siglo XXI</strong></p>
+<p style="text-align: justify;">ODS 4: Educación de calidad<br />ODS 5: Igualdad de género (visibilización de autoras como Concha Méndez o Ernestina de Champourcín)<br />Retos del siglo XXI: alfabetización mediática, pensamiento crítico y competencia digital</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777754809289-0b3j735nw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Justificación e impacto esperado</strong></p>\n<p style=\"text-align: justify;\">El estudio de las vanguardias y la Generación del 27 permite comprender la renovación estética de la literatura del siglo XX y su relación con el contexto histórico y cultural. A través de la creación de productos digitales, el alumnado desarrolla competencias comunicativas, creativas y digitales, además de una actitud crítica ante los discursos culturales.</p>\n<p style=\"text-align: justify;\"><strong>Relación con los ODS y los retos del siglo XXI</strong></p>\n<p style=\"text-align: justify;\">ODS 4: Educación de calidad<br />ODS 5: Igualdad de género (visibilización de autoras como Concha Méndez o Ernestina de Champourcín)<br />Retos del siglo XXI: alfabetización mediática, pensamiento crítico y competencia digital</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor60s5t-i6j5zv37y</odePageId>
+  <odeParentPageId>page-mor60s5o-u322l42cj</odeParentPageId>
+  <pageName>2. ELEMENTOS CURRICULARES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ELEMENTOS CURRICULARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ELEMENTOS CURRICULARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor60s5t-i6j5zv37y</odePageId>
+      <odeBlockId>block-1777755103367-7lfvprkgg</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor60s5t-i6j5zv37y</odePageId>
+          <odeBlockId>block-1777755103367-7lfvprkgg</odeBlockId>
+          <odeIdeviceId>idevice-1777755103364-sljnn7eka</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Competencias clave:</strong><br />Competencia en comunicación lingüística (CCL)<br />Competencia digital (CD)<br />Competencia personal, social y de aprender a aprender (CPSAA)<br />Competencia en conciencia y expresión culturales (CCEC)</p>
+<p><strong>Competencias específicas (LCL ESO)</strong><br />CE1. Analizar textos literarios reconocibles de la literatura del siglo XX.<br />CE2. Interpretar obras literarias contextualizándolas histórica y culturalmente.<br />CE3. Producir textos orales y multimodales adecuados a la finalidad comunicativa.<br />CE5. Utilizar herramientas digitales de forma crítica y responsable.<br /> </p>
+<p><strong>Saberes básicos:</strong><br />Las vanguardias literarias: rasgos y principales ismos<br />La Generación del 27: autores, temas y estilo<br />Comentario e interpretación de textos literarios<br />Comunicación audiovisual y multimodal<br />Uso ético y seguro de fuentes digitales<br /> <br /><strong>Criterios de evaluación:</strong><br />Analiza las características principales de los movimientos de vanguardia.<br />Identifica rasgos propios de la Generación del 27 en textos representativos.<br />Elabora una infografía clara, creativa e interactiva.<br />Produce un vídeo estructurado y adecuado a la intención comunicativa.<br />Utiliza fuentes fiables y respeta los derechos de autor.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777755103364-sljnn7eka","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Competencias clave:</strong><br />Competencia en comunicación lingüística (CCL)<br />Competencia digital (CD)<br />Competencia personal, social y de aprender a aprender (CPSAA)<br />Competencia en conciencia y expresión culturales (CCEC)</p>\n<p><strong>Competencias específicas (LCL ESO)</strong><br />CE1. Analizar textos literarios reconocibles de la literatura del siglo XX.<br />CE2. Interpretar obras literarias contextualizándolas histórica y culturalmente.<br />CE3. Producir textos orales y multimodales adecuados a la finalidad comunicativa.<br />CE5. Utilizar herramientas digitales de forma crítica y responsable.<br /> </p>\n<p><strong>Saberes básicos:</strong><br />Las vanguardias literarias: rasgos y principales ismos<br />La Generación del 27: autores, temas y estilo<br />Comentario e interpretación de textos literarios<br />Comunicación audiovisual y multimodal<br />Uso ético y seguro de fuentes digitales<br /> <br /><strong>Criterios de evaluación:</strong><br />Analiza las características principales de los movimientos de vanguardia.<br />Identifica rasgos propios de la Generación del 27 en textos representativos.<br />Elabora una infografía clara, creativa e interactiva.<br />Produce un vídeo estructurado y adecuado a la intención comunicativa.<br />Utiliza fuentes fiables y respeta los derechos de autor.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor60s5u-61cijysa6</odePageId>
+  <odeParentPageId>page-mor60s5o-u322l42cj</odeParentPageId>
+  <pageName>3. METODOLOGÍAS ACTIVAS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor60s5u-61cijysa6</odePageId>
+      <odeBlockId>block-1776153005673-3bu5i0d4t</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor60s5u-61cijysa6</odePageId>
+          <odeBlockId>block-1776153005673-3bu5i0d4t</odeBlockId>
+          <odeIdeviceId>idevice-1776153005669-23ckiqc9d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aprendizaje Basado en Proyectos (ABP)<br />Aprendizaje cooperativo<br />Uso del pensamiento creativo y del aprendizaje por investigación</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776153005669-23ckiqc9d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aprendizaje Basado en Proyectos (ABP)<br />Aprendizaje cooperativo<br />Uso del pensamiento creativo y del aprendizaje por investigación</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor60s5u-rm5rbhx54</odePageId>
+  <odeParentPageId>page-mor60s5o-u322l42cj</odeParentPageId>
+  <pageName>4. VINCULACIÓN CON PROYECTOS Y PROGRAMAS DEL CENTRO</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. VINCULACIÓN CON PROYECTOS Y PROGRAMAS DEL CENTRO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. VINCULACIÓN CON PROYECTOS Y PROGRAMAS DEL CENTRO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. VINCULACIÓN CON PROYECTOS Y PROGRAMAS DEL CENTRO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor60s5u-rm5rbhx54</odePageId>
+      <odeBlockId>block-1777755313104-c5oqxug46</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor60s5u-rm5rbhx54</odePageId>
+          <odeBlockId>block-1777755313104-c5oqxug46</odeBlockId>
+          <odeIdeviceId>idevice-1777755313099-q92enivkz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>PLEI: desarrollo de la competencia digital y uso responsable de la información<br />PAD: atención a la diversidad mediante distintas formas de expresión (DUA)<br />PDC: mejora de la competencia comunicativa y cultural</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777755313099-q92enivkz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>PLEI: desarrollo de la competencia digital y uso responsable de la información<br />PAD: atención a la diversidad mediante distintas formas de expresión (DUA)<br />PDC: mejora de la competencia comunicativa y cultural</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor60s5u-njzi4sr9t</odePageId>
+  <odeParentPageId>page-mor60s5o-u322l42cj</odeParentPageId>
+  <pageName>5. ACTIVIDADES EXTRAESCOLARES</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. ACTIVIDADES EXTRAESCOLARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. ACTIVIDADES EXTRAESCOLARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor60s5u-njzi4sr9t</odePageId>
+      <odeBlockId>block-1777755344178-oonulsyz0</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor60s5u-njzi4sr9t</odePageId>
+          <odeBlockId>block-1777755344178-oonulsyz0</odeBlockId>
+          <odeIdeviceId>idevice-1777755344176-tgaophj45</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Visionado comentado de documentales sobre la Generación del 27<br />Participación en actividades del Día del Libro<br />Exposición virtual de productos digitales en la web del centro</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777755344176-tgaophj45","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Visionado comentado de documentales sobre la Generación del 27<br />Participación en actividades del Día del Libro<br />Exposición virtual de productos digitales en la web del centro</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor60s5u-a6mq74lxa</odePageId>
+  <odeParentPageId>page-mor60s5o-u322l42cj</odeParentPageId>
+  <pageName>6. ATRIBUCIÓN Y DESCARGA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor60s5u-a6mq74lxa</odePageId>
+      <odeBlockId>block-1777891357772-ykhxwbwo8</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor60s5u-a6mq74lxa</odePageId>
+          <odeBlockId>block-1777891357772-ykhxwbwo8</odeBlockId>
+          <odeIdeviceId>idevice-1777891357768-jhm5lqjcq</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA: VANGUARDIAS Y GENERACIÓN DEL 27</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Beatriz Fernández Morín</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
